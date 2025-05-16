@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ### 📈 GitHub Stats
 
-![github starts](https://github-readme-stats.vercel.app/api?username=panwenwei&show_icons=true&theme=radical)
+![github starts](https://github-readme-stats-one-bice.vercel.app/api?username=panwenwei&show_icons=true&theme=radical&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 
 ---
 
