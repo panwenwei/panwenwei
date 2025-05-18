@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi, I'm Wen Wei
+## Hi there 👋
 
 🧑‍💻 Frontend Developer · Indie Maker · Shopify App Builder  
 🛠️ Focused on Shopify POD (Print-on-Demand) and custom storefront tools  
